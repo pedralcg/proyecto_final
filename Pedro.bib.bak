@@ -1,0 +1,20 @@
+% Encoding: UTF-8
+
+@Article{10272/14525,
+  author    = {Bádenas, Beatriz},
+  title     = {La geología en los concursos nacionales de divulgación científica multidisciplinares: una de cal y otra de arena. Comisión Mujeres y Geología de la Sociedad Geológica de España},
+  year      = {2017},
+  abstract  = {La participación de profesionales de la geología en los concursos de divulgación científica de escala nacional, Ciencia en Acción, Fotciencia e Inspiraciencia, es dispar. En Ciencia en Acción, se ha dado un crecimiento del número de geólogos y geólogas participantes y premiados en las últimas ediciones, estando muy cerca de la paridad en cuanto a participación, premios y jurados. No es así en Fotciencia e Inspiraciencia, donde la participación es testimonial y la presencia en jurados nula.
+Desde la Comisión Mujeres y Geología se anima a los profesionales de la geología a participar en estas actividades, como vías para la difusión y divulgación de la geología},
+  keywords  = {Concursos científicos, Divulgación, Geología, Paridad, España, Scientific competitions, Dissemination, Geology, Gender parity, Spain},
+  publisher = {Sociedad Geológica de España},
+  url       = {http://hdl.handle.net/10272/14525},
+}
+
+@Misc{10045_8428,
+  author = {Tent-Manclus, Jose Enrique AND Monzó Giménez, José Carlos AND Baeza Carratalá, José Francisco AND Lancis Sáez, Carlos AND Pina Gosálbez, José Antonio AND Yébenes Simón, Alfonso},
+  title  = {La geología de Pinoso (Alicante): el debate entre Jiménez de Cisneros y Darder Pericás},
+  year   = {2008},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
