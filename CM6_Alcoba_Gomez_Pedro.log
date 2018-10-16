@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.11)  16 OCT 2018 12:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.10.11)  16 OCT 2018 13:23
 entering extended mode
 **./CM6_Alcoba_Gomez_Pedro.tex
 (CM6_Alcoba_Gomez_Pedro.tex
@@ -534,46 +534,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 \\\\
-         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 [3]
 <figura2.png, id=19, 560.0925pt x 231.86626pt>
 File: figura2.png Graphic file (type png)
 <use figura2.png>
-Package pdftex.def Info: figura2.png  used on input line 61.
+Package pdftex.def Info: figura2.png  used on input line 60.
 (pdftex.def)             Requested size: 284.54091pt x 142.26608pt.
  [4 <./figura2.png>]
 <figura3.jpg, id=25, 1846.9pt x 846.16125pt>
 File: figura3.jpg Graphic file (type jpg)
 <use figura3.jpg>
-Package pdftex.def Info: figura3.jpg  used on input line 74.
+Package pdftex.def Info: figura3.jpg  used on input line 73.
 (pdftex.def)             Requested size: 426.77895pt x 284.52774pt.
 
-Overfull \hbox (66.77895pt too wide) in paragraph at lines 74--75
+Overfull \hbox (66.77895pt too wide) in paragraph at lines 73--74
  [][] 
  []
 
@@ -581,12 +555,40 @@ Overfull \hbox (66.77895pt too wide) in paragraph at lines 74--75
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (4.1155pt too wide) in paragraph at lines 79--80
+Overfull \hbox (4.1155pt too wide) in paragraph at lines 78--79
 []\OT1/cmr/m/n/10.95 Nullam vi-ve-rra id ri-sus ut con-di-men-tum. Mor-bi lo-bo
 r-tis fer-men-tum vulpu-
  []
 
-[5] [6 <./figura3.jpg>] (CM6_Alcoba_Gomez_Pedro.aux
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+! Display math should end with $$.
+<to be read again> 
+                    
+l.98 $$ E=mc^2 $
+                
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+[6 <./figura3.jpg>] (CM6_Alcoba_Gomez_Pedro.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
@@ -595,23 +597,28 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2658 strings out of 493308
- 35046 string characters out of 3138767
- 102398 words of memory out of 3000000
- 6176 multiletter control sequences out of 15000+200000
+ 2657 strings out of 493308
+ 35031 string characters out of 3138767
+ 102390 words of memory out of 3000000
+ 6175 multiletter control sequences out of 15000+200000
  9118 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,8n,30p,963b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr8.pfb>
-Output written on CM6_Alcoba_Gomez_Pedro.pdf (6 pages, 1659503 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on CM6_Alcoba_Gomez_Pedro.pdf (6 pages, 1709452 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
